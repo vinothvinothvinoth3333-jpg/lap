@@ -62,6 +62,8 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) in a browser.
 
+Local production builds export static files to `out` for Capacitor. Vercel builds use Next.js server output instead; leave Vercel's Output Directory setting unset so it can detect the generated Next.js build.
+
 ## Documentation
 
 - [Next.js Documentation](https://nextjs.org/docs)
