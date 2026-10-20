@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">University Lab Manager</title>
+  <rect width="512" height="512" rx="112" fill="#1f2f5c"/>
+  <path d="M210 96h92v145l85 144c18 30-4 67-39 67H164c-35 0-57-37-39-67l85-144V96Z" fill="#fff"/>
+  <path d="M231 122h50v126l-33 56h-50l33-56V122Z" fill="#1f2f5c"/>
+  <path d="M180 331h153l31 53c7 12-2 27-16 27H164c-14 0-23-15-16-27l32-53Z" fill="#43d6c5"/>
+  <circle cx="247" cy="315" r="10" fill="#43d6c5"/>
+  <circle cx="280" cy="298" r="7" fill="#fff"/>
+</svg>
